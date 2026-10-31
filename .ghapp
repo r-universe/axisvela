@@ -1,0 +1,10 @@
+{
+  "id": 177155832,
+  "created_at": "2026-10-31T09:00:01.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["praxo-core", "axisvela.r-universe.dev"]
+}
